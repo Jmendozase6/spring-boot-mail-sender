@@ -19,7 +19,7 @@ This project is a Spring Boot application that provides RESTful APIs to send ema
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/spring-boot-email-sender.git
+    git clone https://github.com/jmendozase6/spring-boot-email-sender.git
     ```
 2. Navigate to the project directory:
     ```sh
